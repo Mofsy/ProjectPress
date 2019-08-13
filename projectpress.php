@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: ProjectPress - управление проектами
+ * Plugin Name: ProjectPress - projects manager
  * Plugin URI: https://mofsy.ru/projects/projectpress
  * Description: Плагин добавляющий систему управления проектами на сайт под управлением WordPress.
  * Version: 0.1.0.1
@@ -8,7 +8,7 @@
  * Author URI: https://mofsy.ru
  * Text Domain: projectpress
  * Domain Path: /languages
- * Copyright: © 2018 Mofsy
+ * Copyright: 2018-2019 © Oleg Budrin (Mofsy)
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  *
