@@ -15,7 +15,7 @@
  * @package Projectpress
 **/
 
-if ( !defined( 'ABSPATH' ) )
+if ( ! defined( 'ABSPATH' ) )
 {
 	exit;
 }
