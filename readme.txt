@@ -10,7 +10,15 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Donate link: https://mofsy.ru/others/help
 
 == Description ==
-Manage project in WordPress.
+This plugin was created to help you publish and manage your projects.
+Unlike some other plugins out there, this “Projects” plugin is designed to be as lightweight as possible
+while staying complete and flexible in order to make your publishing and management process as easy as one can imagine.
+
+EASY TO USE
+All you have to do is just to install and activate the plugin, decide the URL structure
+for your projects (“projects” by default) and save plugin settings.
+You are ready to publish your projects – just fill in the form to describe
+the project and hit the “Publish” button!
 
 Questions and answers:
 Email - support@mofsy.ru
